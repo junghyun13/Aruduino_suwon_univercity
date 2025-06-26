@@ -1,6 +1,6 @@
 # Aruduino_suwon_univercity
 정보통신학과 로봇경진대회 아두이노 자율주행RC카 코드
-
+자세한 설명: https://velog.io/@junghyun13/%EC%88%98%EC%9B%90%EB%8C%80%EB%A1%9C%EB%B4%87%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C
 #include <IRremote.h>
 
 
